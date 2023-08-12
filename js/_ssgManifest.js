@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["/[...slug]","/e/[...slug]","/ps/[id]","/resources/[...slug]","/vig/[channelId]","/vp/[id]","/vpp/[id]"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
